@@ -1,4 +1,4 @@
-# Kafka + GPT Log Summarizer
+# Kafka + AI Log Summarizer
 
 This project demonstrates how to stream system logs through Kafka and summarize them using OpenAI's GPT API. It's a lightweight, AI-assisted observability prototype—perfect for developers working with real-time pipelines.
 
